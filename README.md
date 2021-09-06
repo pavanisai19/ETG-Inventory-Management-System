@@ -16,20 +16,16 @@ Adding_new_products,Purchasing_products
 1.Prod_id<br>
 2.Name<br>
 3.Quantity(qn)<br>
-4.price(pr)
-
+4.price(pr)<br>
 5.expiry date(exp)
+<hr>
 
 #### Transactiom Feature
-1.trans_id
-
-2.time
-
-3.amount
-
-4.quantity(qn)
-
-5.Prod_id
+1.trans_id<br>
+2.time<br>
+3.amount<br>
+4.quantity(qn)<br>
+5.Prod_id<hr>
 
 #### Who am I?
 
