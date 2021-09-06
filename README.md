@@ -10,9 +10,9 @@ Adding_new_products,Purchasing_products
 1.JSON file system is implemented in this Inventory Management system.<br>
 2.New inventory can be added.<br>
 3.Purchase can be done.<br>
-4.Transactions can be viewed
+4.Transactions can be viewed<hr>
 
-#### Product Features
+#### Product Features:
 1.Prod_id<br>
 2.Name<br>
 3.Quantity(qn)<br>
@@ -20,7 +20,7 @@ Adding_new_products,Purchasing_products
 5.expiry date(exp)
 <hr>
 
-#### Transactiom Feature
+#### Transaction Features:
 1.trans_id<br>
 2.time<br>
 3.amount<br>
