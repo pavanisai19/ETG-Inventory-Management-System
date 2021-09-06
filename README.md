@@ -13,17 +13,22 @@ Adding_new_products,Purchasing_products
 4.Transactions can be viewed
 
 #### Product Features
-1.Prod_id
-2.Name
-3.Quantity(qn)
+1.Prod_id<br>
+2.Name<br>
+3.Quantity(qn)<br>
 4.price(pr)
+
 5.expiry date(exp)
 
 #### Transactiom Feature
 1.trans_id
+
 2.time
+
 3.amount
+
 4.quantity(qn)
+
 5.Prod_id
 
 #### Who am I?
@@ -33,9 +38,9 @@ A dedicated, hardworking, and proactive Computer Science Student pursuing a B-Te
 
 #### Other Links:
 
-LinkedIn:https://www.linkedin.com/in/pavani-sai-0b048b1a4/
+LinkedIn: https://www.linkedin.com/in/pavani-sai-0b048b1a4/
 
-Twitter:https://twitter.com/pavanisai19
+Twitter: https://twitter.com/pavanisai19
 
 
 
