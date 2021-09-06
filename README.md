@@ -1,6 +1,9 @@
 # ETG-Inventory-Management-System
 This repository is having all the codes with json files for an Inventory Management System.<hr>
 
+#### Overview
+An inventory management system (or inventory system) is the process by which you track your goods throughout your entire supply chain, from purchasing to production to end sales.<hr>
+
 #### All the files
 Json files=> record.json,sales.json
 Adding_new_products,Purchasing_products
